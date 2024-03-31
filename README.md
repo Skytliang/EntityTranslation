@@ -9,6 +9,7 @@
 ## Examples from entity test dataset
 
 ```json
+[
     {
         "entity": {
             "source": "海因茨",
@@ -39,4 +40,6 @@
     },
 
 ...
+
+]
 ```
