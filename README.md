@@ -1,12 +1,12 @@
 # EntityTranslation
 
-## The statistics of entities in the entity test dataset
+## The statistics of entities in the entity test set
 
 | Language Pair | Sentence | Sentences with Entity | Entity | Entity Occurrence |
 | ------------- | -------- | --------------------- | ------ | ----------------- |
 | Zh-En         | 101,515  | 101,515               | 20,303 | 125,544           |
 
-## Examples from entity test dataset
+## Examples from entity test set
 
 ```json
 [
